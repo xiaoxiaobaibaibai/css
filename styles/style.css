@@ -1,0 +1,10 @@
+.group .block{
+    width: 33%;
+    box-sizing: border-box;
+    padding: 20px;
+    color: aquamarine;
+}
+
+html {
+    background-color: #00539F;
+  }
